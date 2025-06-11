@@ -16,7 +16,6 @@ Arch,Bash,C,C++,CSS,HTML,JavaScript,PHP,Python,Pycharm,Raspberry_Pi,VS Code
 ## Top Projects
 - [PasswordGenerator](https://github.com/SagiHacky/PasswordGenerator): A simple app to generate passwords primarily using numbers. ⭐️ 0 stars | Language: Python | Forks: 0 | Issues: 0 
 - [SagiHacky](https://github.com/SagiHacky/SagiHacky): Config files for my GitHub profile. ⭐️ 0 stars | Language: N/A | Forks: 0 | Issues: 0
-- [PhishingSite](https://github.com/SagiHacky/PhishingSite): Website for my school project for cybersecurity. ⭐ 0 Stars | Language HTML,CSS,JS | Forks: 0 | Issues: 0
 
 ## GitHub Stats
 ✨ **Public Repositories:** 2
