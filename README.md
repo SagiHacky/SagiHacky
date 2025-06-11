@@ -26,5 +26,5 @@ Arch,Bash,C,C++,CSS,HTML,JavaScript,PHP,Python,Pycharm,Raspberry_Pi,VS Code
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagiHacky&show_icons=true&theme=radical)
 
 ## Connect with Me
-Signal:"https://signal.me/#eu/ipSgv-BNnFq9AT3DtCiQ5SN1ph4uCi5Bx2m72cgVJwr5fiaVhkVGVI6YfojB3DWR"
-Discord:"https://discord.com/users/837332685554712597"
+-Signal:"https://signal.me/#eu/ipSgv-BNnFq9AT3DtCiQ5SN1ph4uCi5Bx2m72cgVJwr5fiaVhkVGVI6YfojB3DWR"
+-Discord:"https://discord.com/users/837332685554712597"
