@@ -22,6 +22,7 @@ Arch,Bash,C,C++,CSS,HTML,JavaScript,PHP,Python,Pycharm,Raspberry_Pi,VS Code
 ✨ **Public Repositories:** 2
 ✨ **Followers:** 0
 ✨ **Following:** 0
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagiHacky&show_icons=true&theme=radical)
 
 ## Connect with Me
