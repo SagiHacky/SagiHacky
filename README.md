@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="left">-Nerdie_Hacking 🧑🏽‍💻<br>-Love_old_music 📻<br>-Love_books 📚<br>-Pronouns: They/Them 🏳️‍🌈<br>-Fun_fact: You will find out later 🌹</h1>
+<h1 align="left">-Nerdie_Hacking 🧑🏽‍💻<br>-Love_old_music 📻<br>-Love_books 📚<br>-Fun_fact: You will find out later 🌹</h1>
 
 ###
 
