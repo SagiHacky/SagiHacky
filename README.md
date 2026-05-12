@@ -6,13 +6,13 @@
 
 - 🔭 I'm currently working on **cyber-security projects**
 
-- 🌱 I'm currently learning **python, philosophy **
+- 🌱 I'm currently learning **python, philosophy**
 
 - 👯 I'm looking to collaborate on **something containing cybersecurity**
 
 - 🤝 I'm looking for help with **well-being :3**
 
-- 💬 Ask me about **my philosophical views **
+- 💬 Ask me about **my philosophical views**
 
 - 📫 How to reach me **970g402h@legolymas.anonaddy.com**
 
