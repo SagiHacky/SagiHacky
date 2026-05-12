@@ -1,37 +1,135 @@
-# Hi 👋, I'm Sammy
+<div align="center">
 
-### A cyber-anarchist, hacktivist, nerd, libertarian and philosopher 
+# 🖤 SAMMY 🖤
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SagiHacky&label=Profile views&color=0e75b6&style=flat" alt="SagiHacky" /> </p>
+### *cyber-anarchist | hacktivist | ancap | nerd | libertarian | philosopher*
 
-- 🔭 I'm currently working on **cyber-security projects**
+> "Don't mess with me — I am a peaceful soul who refuses to accept the given."
 
-- 🌱 I'm currently learning **python, philosophy**
+</div>
 
-- 👯 I'm looking to collaborate on **something containing cybersecurity**
+---
 
-- 🤝 I'm looking for help with **well-being :3**
+## About — A Longer Manifesto
 
-- 💬 Ask me about **my philosophical views**
+I am a coder and thinker shaped by contradiction: tender toward autonomy, ruthless toward injustice. I build tools, break unjust systems, and write code that reflects an ethic: power should be inspected, consent must be respected, and freedom is a practice, not a slogan. 
 
-- 📫 How to reach me **970g402h@legolymas.anonaddy.com**
+My work lives at the intersection of existential inquiry, feminist solidarity, and anarcho-capitalist practice — a commitment to voluntary association, decentralized responsibility, radical care, and relentless critique.
 
-- ⚡ Fun fact **Don't mess with me tho I am a peaceful soul :>**
+### Core Values
 
-- 👨‍💻 All of my projects are available at **[http://localhost (joke)](http://localhost (joke))**
+**Existentialism**  
+I value radical freedom, responsibility, and the gritty work of meaning-making in an indifferent world.
 
-- 📝 I regularly write articles on **[http://localhost (joke)](http://localhost (joke))**
+**Feminism**  
+I center care, dismantle domination, and amplify voices historically excluded from tech and theory.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SagiHacky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SagiHacky" height="30" width="40" /></a>
-<a href="https://discord.gg/uwejWZ2E4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uwejWZ2E4" height="30" width="40" /></a>
-</p>
+**Anarcho-Capitalism**  
+I believe in voluntary exchange, property rights, mutual consent, and decentralized networks as alternatives to state coercion and hierarchical control.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SagiHacky&show_icons=true&locale=en&layout=compact" alt="SagiHacky" /></p>
+## 🔗 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SagiHacky&show_icons=true&locale=en" alt="SagiHacky" /></p>
+| Platform | Link |
+|----------|------|
+| **GitHub** | [github.com/SagiHacky](https://github.com/SagiHacky) |
+| **Website** | [localhost:8080](http://localhost:8080) |
+| **Email** | 970g402h@legolymas.anonaddy.com |
 
+---
+
+## 💻 Complete Skillset
+
+### 🔤 Programming Languages
+`Bash` `C` `C++` `Python` `JavaScript` `Go` `PHP` `HTML` `CSS`
+
+### 🖥️ Systems & Infrastructure
+`Linux` `MariaDB` `Database Design` `Secure Deployment` `Threat Modeling`
+
+### ⚔️ Specializations
+`Cybersecurity` `Network Security` `Privacy Engineering` `Adversarial Thinking` `Philosophy of Technology`
+
+---
+
+## 🚀 Current Work & Focus
+
+### Projects
+- Building a **cybersecurity project** that prioritizes real-world impact, safety, and ethics
+- Tools for **resilient, privacy-preserving collaboration** and threat analysis
+- Research at the intersection of code and critical theory
+
+### Learning
+- Deep readings: existentialism, feminist theory, anarcho-capitalist philosophy, epistemology of power
+- Translating critical theory into practice: how systems encode violence and how code can resist it
+
+### Collaboration
+Open to collaborations that are **rigorous, principled, and generative** — whether code, research, activism, or cultural projects.
+
+---
+
+## 🧭 Principles & Practice
+
+**Autonomy through design**  
+Craft systems that empower users instead of surveilling them.
+
+**Voluntary exchange**  
+Build networks based on consent and mutual benefit, not coercion or state mandate.
+
+**Care as security**  
+Security work must include empathy, harm reduction, and accessibility.
+
+**Accountability**  
+Critique systems and hold power to account without reproducing domination.
+
+**Mutual aid**  
+Prefer networks that share resources and risk instead of concentrating them.
+
+**Embodied ethics**  
+Theory must inform practice; practice must be reflexive and humane.
+
+---
+
+## 🔥 What I Bring to a Project
+
+- **Technical rigor:** secure coding, threat modeling, systems thinking
+- **Radical critique:** political and philosophical analysis that surfaces hidden assumptions
+- **Community mindset:** mentorship, knowledge sharing, and building inclusive spaces
+- **Tactical creativity:** pragmatic solutions that disrupt unjust systems while minimizing collateral harm
+
+---
+
+## 💬 Talk To Me About
+
+- The ethics and politics of surveillance, coercion, and control
+- How feminism reshapes security and tool design
+- Existential freedom, responsibility, and politics in tech
+- Voluntary association, decentralization, and anarcho-capitalist alternatives
+- Building resilient, privacy-forward tools and communities
+- Why the status quo is fundamentally broken (and what we can do about it)
+
+---
+
+## ⚙️ Personal Details
+
+| Aspect | Details |
+|--------|---------|
+| **Pronouns** | They/Them |
+| **Vibe** | Peaceful, uncompromising, curious |
+| **Email** | 970g402h@legolymas.anonaddy.com |
+
+---
+
+## ✨ A Little More — Values in Action
+
+I refuse to accept neutrality in code. Neutrality is often complicity. I write scripts, audits, and essays that ask: *who benefits? who is harmed? who is left invisible?* 
+
+I build with an ethic of **redistribution** and **voluntary association** — of knowledge, of risk, of power. If you want to collaborate in ways that are smart, humane, and disruptive to unjust systems, reach out.
+
+---
+
+<div align="center">
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SagiHacky)
+
+</div>
