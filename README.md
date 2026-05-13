@@ -1,109 +1,115 @@
 <div align="center">
 
-# sammy
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  s a m m y                  ░
+░  cyber-anarchist · they/them ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-`cyber-anarchist` `hacktivist` `ancap` `nerd` `they/them`
-
-<br/>
-
-![](https://img.shields.io/badge/existentialist-2C2C2A?style=flat-square)
-![](https://img.shields.io/badge/feminist-2C2C2A?style=flat-square)
-![](https://img.shields.io/badge/privacy--first-2C2C2A?style=flat-square)
-![](https://img.shields.io/badge/anti--surveillance-2C2C2A?style=flat-square)
-![](https://img.shields.io/badge/open%20source-2C2C2A?style=flat-square)
+![](https://img.shields.io/badge/focus-cybersecurity-111110?style=flat-square&labelColor=111110&color=c9b99a)
+![](https://img.shields.io/badge/ethos-anarcho--capitalist-111110?style=flat-square&labelColor=111110&color=c9b99a)
+![](https://img.shields.io/badge/pronouns-they%2Fthem-111110?style=flat-square&labelColor=111110&color=9a9590)
 
 </div>
 
 ---
 
-I'm a contradiction that got good at code. I believe in radical personal freedom and I'll fight like hell for yours too. I'm tender about autonomy and mean about injustice, and I've stopped pretending those two things don't coexist in the same person.
+I'm queer, I'm a contradiction, and I got good at code somewhere along the way. I believe in individual freedom — not as an abstract concept but as a daily practice of respect and dignity. I'm tender about autonomy and mean about injustice, and I've stopped pretending those two things don't live in the same person.
 
 I write code the same way I think — with a question underneath everything: *who does this serve, and who does it quietly harm?* Neutrality in tech is usually just cowardice with better branding.
 
-> My weird little corner of the world is where existentialism, feminist theory, and anarcho-capitalism crash into each other and somehow make sense. Voluntary exchange, decentralized everything, consent as infrastructure. State coercion is a bug, not a feature. I know that combo sounds like it shouldn't work. It does, to me, and I'm always willing to argue about it.
+My weird little corner of the world is where existentialism, feminist theory, and anarcho-capitalism crash into each other and somehow make sense. Voluntary exchange, decentralized everything, consent as infrastructure. State coercion is a bug, not a feature. I know that combo sounds like it shouldn't work. It does, to me — and I'm always willing to argue about it.
 
 ---
 
-## what I actually do
+## `// what I actually do`
 
-Right now I'm building a cybersecurity project — one where "security" doesn't just mean locking things down but actually keeping people safe. There's a version of security culture that treats users like threats to be managed, and I'm allergic to it. I want tools that are private by default, honest about their limits, and built for people who have real reasons to need protection.
+Building a cybersecurity project right now — one where "security" doesn't just mean locking things down but actually keeping people safe. There's a version of security culture that treats users like threats to be managed, and I'm allergic to it. I want tools that are private by default, honest about their limits, and built for people who have real reasons to need protection.
 
-Beyond that: threat modeling, network security, privacy engineering. I like the problems that don't have clean answers — where you have to think about who your adversary actually is, what they want, and what harm looks like in practice.
+Hacktivism, to me, isn't about chaos. It's about accountability. It's about refusing to let power operate in the dark.
 
-When I'm not coding I'm reading. Epistemology of power. Feminist tech critique. Anarchist political philosophy. Then I sit with the uncomfortable question of how to translate any of that into something real instead of just something I believe at my desk. That gap between theory and practice is where most of the interesting work lives.
+When I'm not coding I'm reading — Camus taught me that life has no inherent meaning, and that's exactly where freedom starts. Dune taught me how religion and politics manufacture consent. Tolkien taught me that you can build an entire world if you care enough about the details. All three feel relevant to security work.
 
 ---
 
-## things I actually think
+## `// things I actually think`
+
+> Surveillance isn't a security feature. It's a control feature. There's a difference and most of the industry pretends there isn't.
+
+> Feminism reshapes how I think about security. If your threat model doesn't center the most vulnerable people in the room, it's not a threat model — it's a liability exercise.
+
+> Patriarchy hurts everyone. Men who resist toxic masculinity, who let themselves be vulnerable and empathetic — that's not weakness. That's the harder path.
+
+> Decentralization is worth fighting for even when it's harder, slower, and less convenient — which is almost always.
+
+> Open source is a good start and nowhere near enough.
+
+> The assumption that "neutral" tools are possible is itself a political position. Someone always made a choice. Usually several.
+
+---
+
+## `// stack`
 
 ```
-Surveillance isn't a security feature. It's a control feature.
-Open source is a good start and nowhere near enough.
-"Neutral" tools are impossible. Someone always made a choice.
-Decentralization is worth fighting for even when it's inconvenient — which is almost always.
-Care is a technical skill. If your threat model doesn't include vulnerable people, it's incomplete.
+languages   bash · c · c++ · python · javascript · go · php · html · css
+systems     linux · mariadb · secure deployment · threat modeling
+focus       cybersecurity · network security · privacy engineering
 ```
-
----
-
-## tools I use
 
 <div align="center">
 
-**languages**
-
-![Bash](https://img.shields.io/badge/bash-4A4A4A?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/c-4A4A4A?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-4A4A4A?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-4A4A4A?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-4A4A4A?style=flat-square&logo=javascript&logoColor=white)
-![Go](https://img.shields.io/badge/go-4A4A4A?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-4A4A4A?style=flat-square&logo=php&logoColor=white)
-
-**systems & focus**
-
-![Linux](https://img.shields.io/badge/linux-4A4A4A?style=flat-square&logo=linux&logoColor=white)
-![MariaDB](https://img.shields.io/badge/mariadb-4A4A4A?style=flat-square&logo=mariadb&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/cybersecurity-2C2C2A?style=flat-square)
-![Privacy Engineering](https://img.shields.io/badge/privacy%20engineering-2C2C2A?style=flat-square)
-![Threat Modeling](https://img.shields.io/badge/threat%20modeling-2C2C2A?style=flat-square)
-![Network Security](https://img.shields.io/badge/network%20security-2C2C2A?style=flat-square)
+![bash](https://img.shields.io/badge/bash-111110?style=flat-square&logo=gnubash&logoColor=c9b99a)
+![python](https://img.shields.io/badge/python-111110?style=flat-square&logo=python&logoColor=c9b99a)
+![go](https://img.shields.io/badge/go-111110?style=flat-square&logo=go&logoColor=c9b99a)
+![c](https://img.shields.io/badge/c-111110?style=flat-square&logo=c&logoColor=c9b99a)
+![javascript](https://img.shields.io/badge/js-111110?style=flat-square&logo=javascript&logoColor=c9b99a)
+![linux](https://img.shields.io/badge/linux-111110?style=flat-square&logo=linux&logoColor=c9b99a)
 
 </div>
 
 ---
 
-## what I'm like to work with
+## `// the rest of it`
 
-I push back. Not to be difficult — because I think that's what makes the work better. I'll tell you when I think something is wrong, ask why we're doing it this way, and look for the assumption nobody questioned yet.
+I'm a sensitive person, which complicates life more than I'd like to admit sometimes. I feel things intensely — the beauty of a sunset, the ugliness of injustice, the weight of words that land wrong. It means I sometimes get overwhelmed, need more time to process, take things personally when I probably shouldn't. But it's also what makes me good at listening. Empathy is a gift and a burden — understanding someone else's despair or joy is both the best thing and sometimes the hardest.
 
-I'm not interested in purity. I'm interested in getting it right, which means being willing to be wrong, change my mind, and do it differently next time.
+I'm an introvert. I guard my quiet like it's something precious, because it is. That doesn't mean I don't like people — it means I need time alone to exist properly.
 
-I care a lot about the people who end up using the things we build. That's not separate from the technical work. It is the technical work.
+I write short stories. Some unfinished, some that nobody will ever read. Writing is how I untangle thoughts that would otherwise stay knotted somewhere in my head. I want to make a film someday — maybe ambitious, maybe not — but I want to tell a story through image and sound and rhythm, not just words.
 
-Open to collaborating on things that are rigorous and a little disruptive — code, research, writing, activism. If you're building something that actually matters, reach out.
+I photograph things most people walk past: a crack in a wall, light on water, the expression on someone's face who doesn't know they're being watched. Photography is how I tell stories without words. When I look at old photos I see not just what was captured, but who I was then — what I cared about, how I saw the world. They're a mirror.
+
+Music runs underneath everything. Older melodies with weight and nostalgia. Ambient sounds when I need to just breathe and be nowhere. The Heartstopper soundtrack when I need to feel something specific, that mix of nervousness and joy and quiet expectation. Music that heals by being exactly what the moment needs.
+
+Nature is escape in every sense. Surrounded by trees, mountains, rivers, or just a field in the middle of nothing — I feel free. Nature has no demands, no performance required. Sometimes I sit on a hill and stare into the distance. Sometimes I walk for hours without a destination. It teaches me humility — how small I am, and how much I'm part of something enormous.
+
+I think about the universe probably more than is healthy. Billions of galaxies, each with billions of stars, and here we are on this small rock in the middle of all that. Sometimes it's terrifying. Sometimes it's liberating — realizing that every stress and social pressure is, cosmically, completely insignificant. We exist for a brief moment in infinite time and space. That's why each moment should mean something.
 
 ---
 
-## talk to me about
+## `// talk to me about`
 
-```
-01  why your threat model is probably missing something
-02  the feminist critique of security culture (it's good, read it)
-03  anarcho-capitalism and why I think it's compatible with care
-04  existentialism as a practical framework, not just a mood
-05  voluntary association in a networked world
-06  why the status quo keeps breaking and what comes after
-```
+`threat modeling` `hacktivist ethics` `feminist security critique` `anarcho-capitalism + care`
+`existentialism in practice` `decentralization` `Camus` `Dune` `Tolkien` `the universe`
+`voluntary association` `privacy engineering` `logic & argumentation` `why everything is connected`
+
+---
+
+## `// find me`
+
+| | |
+|---|---|
+| **github** | [SagiHacky](https://github.com/SagiHacky) |
+| **matrix** | @legolymas:matrix.org |
+| **signal** | SammyGreenleaf.07 |
+| **telegram** | @legolymas |
+| **email** | 970g402h@legolymas.anonaddy.com |
 
 ---
 
 <div align="center">
 
-![GitHub streak](https://streak-stats.demolab.com/?user=SagiHacky&theme=dark)
-
-<br/>
-
-`@legolymas:matrix.org - Matrix` · `970g402h@legolymas.anonaddy.com - Email` · `SammyGreenleaf.07 - Signal` · `@legolymas - Telegram` 
+![GitHub streak](https://streak-stats.demolab.com/?user=SagiHacky&theme=dark&hide_border=true&background=111110&stroke=2a2a28&ring=c9b99a&fire=c9b99a&currStreakLabel=c9b99a&sideLabels=9a9590&dates=5c5955)
 
 </div>
