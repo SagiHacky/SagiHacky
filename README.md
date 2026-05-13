@@ -104,6 +104,6 @@ Open to collaborating on things that are rigorous and a little disruptive — co
 
 <br/>
 
-`github.com/SagiHacky` · `970g402h@legolymas.anonaddy.com`
+`@legolymas:matrix.org - Matrix` · `970g402h@legolymas.anonaddy.com - Email` · `SammyGreenleaf.07 - Signal` · `@legolymas - Telegram` 
 
 </div>
