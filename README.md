@@ -1,135 +1,109 @@
 <div align="center">
 
-# 🖤 SAMMY 🖤
+# sammy
 
-### *cyber-anarchist | hacktivist | ancap | nerd | libertarian | philosopher*
+`cyber-anarchist` `hacktivist` `ancap` `nerd` `they/them`
 
-> "Don't mess with me — I am a peaceful soul who refuses to accept the given."
+<br/>
+
+![](https://img.shields.io/badge/existentialist-2C2C2A?style=flat-square)
+![](https://img.shields.io/badge/feminist-2C2C2A?style=flat-square)
+![](https://img.shields.io/badge/privacy--first-2C2C2A?style=flat-square)
+![](https://img.shields.io/badge/anti--surveillance-2C2C2A?style=flat-square)
+![](https://img.shields.io/badge/open%20source-2C2C2A?style=flat-square)
 
 </div>
 
 ---
 
-## About — A Longer Manifesto
+I'm a contradiction that got good at code. I believe in radical personal freedom and I'll fight like hell for yours too. I'm tender about autonomy and mean about injustice, and I've stopped pretending those two things don't coexist in the same person.
 
-I am a coder and thinker shaped by contradiction: tender toward autonomy, ruthless toward injustice. I build tools, break unjust systems, and write code that reflects an ethic: power should be inspected, consent must be respected, and freedom is a practice, not a slogan. 
+I write code the same way I think — with a question underneath everything: *who does this serve, and who does it quietly harm?* Neutrality in tech is usually just cowardice with better branding.
 
-My work lives at the intersection of existential inquiry, feminist solidarity, and anarcho-capitalist practice — a commitment to voluntary association, decentralized responsibility, radical care, and relentless critique.
-
-### Core Values
-
-**Existentialism**  
-I value radical freedom, responsibility, and the gritty work of meaning-making in an indifferent world.
-
-**Feminism**  
-I center care, dismantle domination, and amplify voices historically excluded from tech and theory.
-
-**Anarcho-Capitalism**  
-I believe in voluntary exchange, property rights, mutual consent, and decentralized networks as alternatives to state coercion and hierarchical control.
+> My weird little corner of the world is where existentialism, feminist theory, and anarcho-capitalism crash into each other and somehow make sense. Voluntary exchange, decentralized everything, consent as infrastructure. State coercion is a bug, not a feature. I know that combo sounds like it shouldn't work. It does, to me, and I'm always willing to argue about it.
 
 ---
 
-## 🔗 Connect
+## what I actually do
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [github.com/SagiHacky](https://github.com/SagiHacky) |
-| **Website** | [localhost:8080](http://localhost:8080) |
-| **Email** | 970g402h@legolymas.anonaddy.com |
+Right now I'm building a cybersecurity project — one where "security" doesn't just mean locking things down but actually keeping people safe. There's a version of security culture that treats users like threats to be managed, and I'm allergic to it. I want tools that are private by default, honest about their limits, and built for people who have real reasons to need protection.
 
----
+Beyond that: threat modeling, network security, privacy engineering. I like the problems that don't have clean answers — where you have to think about who your adversary actually is, what they want, and what harm looks like in practice.
 
-## 💻 Complete Skillset
-
-### 🔤 Programming Languages
-`Bash` `C` `C++` `Python` `JavaScript` `Go` `PHP` `HTML` `CSS`
-
-### 🖥️ Systems & Infrastructure
-`Linux` `MariaDB` `Database Design` `Secure Deployment` `Threat Modeling`
-
-### ⚔️ Specializations
-`Cybersecurity` `Network Security` `Privacy Engineering` `Adversarial Thinking` `Philosophy of Technology`
+When I'm not coding I'm reading. Epistemology of power. Feminist tech critique. Anarchist political philosophy. Then I sit with the uncomfortable question of how to translate any of that into something real instead of just something I believe at my desk. That gap between theory and practice is where most of the interesting work lives.
 
 ---
 
-## 🚀 Current Work & Focus
+## things I actually think
 
-### Projects
-- Building a **cybersecurity project** that prioritizes real-world impact, safety, and ethics
-- Tools for **resilient, privacy-preserving collaboration** and threat analysis
-- Research at the intersection of code and critical theory
-
-### Learning
-- Deep readings: existentialism, feminist theory, anarcho-capitalist philosophy, epistemology of power
-- Translating critical theory into practice: how systems encode violence and how code can resist it
-
-### Collaboration
-Open to collaborations that are **rigorous, principled, and generative** — whether code, research, activism, or cultural projects.
+```
+Surveillance isn't a security feature. It's a control feature.
+Open source is a good start and nowhere near enough.
+"Neutral" tools are impossible. Someone always made a choice.
+Decentralization is worth fighting for even when it's inconvenient — which is almost always.
+Care is a technical skill. If your threat model doesn't include vulnerable people, it's incomplete.
+```
 
 ---
 
-## 🧭 Principles & Practice
+## tools I use
 
-**Autonomy through design**  
-Craft systems that empower users instead of surveilling them.
+<div align="center">
 
-**Voluntary exchange**  
-Build networks based on consent and mutual benefit, not coercion or state mandate.
+**languages**
 
-**Care as security**  
-Security work must include empathy, harm reduction, and accessibility.
+![Bash](https://img.shields.io/badge/bash-4A4A4A?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/c-4A4A4A?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-4A4A4A?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-4A4A4A?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-4A4A4A?style=flat-square&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/go-4A4A4A?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-4A4A4A?style=flat-square&logo=php&logoColor=white)
 
-**Accountability**  
-Critique systems and hold power to account without reproducing domination.
+**systems & focus**
 
-**Mutual aid**  
-Prefer networks that share resources and risk instead of concentrating them.
+![Linux](https://img.shields.io/badge/linux-4A4A4A?style=flat-square&logo=linux&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-4A4A4A?style=flat-square&logo=mariadb&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-2C2C2A?style=flat-square)
+![Privacy Engineering](https://img.shields.io/badge/privacy%20engineering-2C2C2A?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/threat%20modeling-2C2C2A?style=flat-square)
+![Network Security](https://img.shields.io/badge/network%20security-2C2C2A?style=flat-square)
 
-**Embodied ethics**  
-Theory must inform practice; practice must be reflexive and humane.
-
----
-
-## 🔥 What I Bring to a Project
-
-- **Technical rigor:** secure coding, threat modeling, systems thinking
-- **Radical critique:** political and philosophical analysis that surfaces hidden assumptions
-- **Community mindset:** mentorship, knowledge sharing, and building inclusive spaces
-- **Tactical creativity:** pragmatic solutions that disrupt unjust systems while minimizing collateral harm
+</div>
 
 ---
 
-## 💬 Talk To Me About
+## what I'm like to work with
 
-- The ethics and politics of surveillance, coercion, and control
-- How feminism reshapes security and tool design
-- Existential freedom, responsibility, and politics in tech
-- Voluntary association, decentralization, and anarcho-capitalist alternatives
-- Building resilient, privacy-forward tools and communities
-- Why the status quo is fundamentally broken (and what we can do about it)
+I push back. Not to be difficult — because I think that's what makes the work better. I'll tell you when I think something is wrong, ask why we're doing it this way, and look for the assumption nobody questioned yet.
 
----
+I'm not interested in purity. I'm interested in getting it right, which means being willing to be wrong, change my mind, and do it differently next time.
 
-## ⚙️ Personal Details
+I care a lot about the people who end up using the things we build. That's not separate from the technical work. It is the technical work.
 
-| Aspect | Details |
-|--------|---------|
-| **Pronouns** | They/Them |
-| **Vibe** | Peaceful, uncompromising, curious |
-| **Email** | 970g402h@legolymas.anonaddy.com |
+Open to collaborating on things that are rigorous and a little disruptive — code, research, writing, activism. If you're building something that actually matters, reach out.
 
 ---
 
-## ✨ A Little More — Values in Action
+## talk to me about
 
-I refuse to accept neutrality in code. Neutrality is often complicity. I write scripts, audits, and essays that ask: *who benefits? who is harmed? who is left invisible?* 
-
-I build with an ethic of **redistribution** and **voluntary association** — of knowledge, of risk, of power. If you want to collaborate in ways that are smart, humane, and disruptive to unjust systems, reach out.
+```
+01  why your threat model is probably missing something
+02  the feminist critique of security culture (it's good, read it)
+03  anarcho-capitalism and why I think it's compatible with care
+04  existentialism as a practical framework, not just a mood
+05  voluntary association in a networked world
+06  why the status quo keeps breaking and what comes after
+```
 
 ---
 
 <div align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SagiHacky)
+![GitHub streak](https://streak-stats.demolab.com/?user=SagiHacky&theme=dark)
+
+<br/>
+
+`github.com/SagiHacky` · `970g402h@legolymas.anonaddy.com`
 
 </div>
