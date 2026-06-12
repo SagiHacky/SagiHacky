@@ -107,9 +107,3 @@ I think about the universe probably more than is healthy. Billions of galaxies, 
 | **email** | 970g402h@legolymas.anonaddy.com |
 
 ---
-
-<div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com/?user=SagiHacky&theme=dark&hide_border=true&background=111110&stroke=2a2a28&ring=c9b99a&fire=c9b99a&currStreakLabel=c9b99a&sideLabels=9a9590&dates=5c5955)
-
-</div>
