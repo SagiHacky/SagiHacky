@@ -52,22 +52,10 @@ When I'm not coding I'm reading — Camus taught me that life has no inherent me
 ## `// stack`
 
 ```
-languages   bash · c · c++ · python · javascript · go · php · html · css
-systems     linux · mariadb · secure deployment · threat modeling
+languages   bash · c++ · python · javascript · go · php · html · css
+systems     linux · secure deployment · threat modeling
 focus       cybersecurity · network security · privacy engineering
 ```
-
-<div align="center">
-
-![bash](https://img.shields.io/badge/bash-111110?style=flat-square&logo=gnubash&logoColor=c9b99a)
-![python](https://img.shields.io/badge/python-111110?style=flat-square&logo=python&logoColor=c9b99a)
-![go](https://img.shields.io/badge/go-111110?style=flat-square&logo=go&logoColor=c9b99a)
-![c](https://img.shields.io/badge/c-111110?style=flat-square&logo=c&logoColor=c9b99a)
-![javascript](https://img.shields.io/badge/js-111110?style=flat-square&logo=javascript&logoColor=c9b99a)
-![linux](https://img.shields.io/badge/linux-111110?style=flat-square&logo=linux&logoColor=c9b99a)
-
-</div>
-
 ---
 
 ## `// the rest of it`
